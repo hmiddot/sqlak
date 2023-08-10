@@ -1,3 +1,4 @@
+<?php
 class sqlak
 {
     var mysqli|false $db;
